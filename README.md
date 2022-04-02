@@ -5,4 +5,4 @@ Links Uteis:
 
 [Documentação Mark Markdown]( https://www.markdownguide.org/basic-syntax)
 
-Documentação GitHub: https://docs.github.com/pt
+[Documentação GitHub](https://docs.github.com/pt)
