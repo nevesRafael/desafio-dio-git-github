@@ -5,6 +5,6 @@ Links Uteis:
 
 Documentação Markdown: https://www.markdownguide.org/basic-syntax
 
-Documentação Git: https://git-scm.com/doc
+[Documentação Git Hub]( https://git-scm.com/doc)
 
 Documentação GitHub: https://docs.github.com/pt
